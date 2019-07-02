@@ -1,0 +1,19 @@
+{
+    "name": "luowy/luowy",
+    "description": "my object",
+    "authors": [
+        {
+            "name": "罗文勇",
+            "email": "luowenyong@chehang168.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "luowySdk\\": "src/"
+        }
+    }
+}
